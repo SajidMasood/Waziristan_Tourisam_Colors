@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "396607630305",
+    "firebase_url": "https://personalitydevelopment-3e891.firebaseio.com",
+    "project_id": "personalitydevelopment-3e891",
+    "storage_bucket": "personalitydevelopment-3e891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396607630305:android:477563f3541524e65bc0a0",
+        "android_client_info": {
+          "package_name": "com.Kktechsol.personalitydevelopmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofCrRhufFGM712-MIsAPgXXbddMxi5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396607630305:android:7895eed7cc90445b",
+        "android_client_info": {
+          "package_name": "com.mtech.masood.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396607630305-2vdn1i30qeaegg633er2433slttqagou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtech.masood.uber",
+            "certificate_hash": "3fabe0f3345108f7e81b70932055c8f993852c6d"
+          }
+        },
+        {
+          "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofCrRhufFGM712-MIsAPgXXbddMxi5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396607630305:android:025c3b0edddc8228",
+        "android_client_info": {
+          "package_name": "com.sajidabdali.personalitydevelopment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396607630305-v0ppd5pcmigj5e5fleb1gh3d1onepunp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajidabdali.personalitydevelopment",
+            "certificate_hash": "a08e657f4a15ca52165e077da635244b7406c388"
+          }
+        },
+        {
+          "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofCrRhufFGM712-MIsAPgXXbddMxi5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396607630305:android:0ac47f10028635275bc0a0",
+        "android_client_info": {
+          "package_name": "com.waziristan.tourisam.colors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396607630305-4id1astje8km3kg2ahcah7v15dd7ab6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waziristan.tourisam.colors",
+            "certificate_hash": "3fabe0f3345108f7e81b70932055c8f993852c6d"
+          }
+        },
+        {
+          "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofCrRhufFGM712-MIsAPgXXbddMxi5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
